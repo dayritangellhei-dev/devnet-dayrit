@@ -17,13 +17,12 @@ that you place inside your variables.
 ============================================
 KEY VOCABULARY
 ============================================
-- variable:
-- data type:
-- int:
-- float:
-- string:
-- boolean:
-(add more as needed)
+- variable: A container that holds value that you can use later.
+- data type: Category of values stored in your variables.
+- int: Whole numbers without decimals.
+- float: Numbers with decimal points.
+- string: Text wrapped in quotation marks.
+- boolean: True or False value.
 
 
 ============================================
