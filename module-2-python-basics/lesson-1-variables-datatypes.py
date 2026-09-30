@@ -1,14 +1,18 @@
 """
 Module 2 — Lesson 1: Variables & Data Types
-Student: [your name]
-Date: [date]
+Student: Angel Lhei D. Dayrit
+Date: 9/30/2026
 
 ============================================
 WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
-[write your own explanation here]
+Variables are containers that holds value
+so for example you have a shoe box, you would
+place shoes inside of them.
 
+Data types are for different types of values
+that you place inside your variables.
 
 ============================================
 KEY VOCABULARY
