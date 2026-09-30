@@ -1,14 +1,18 @@
 """
 Module 2 — Lesson 2: Control Flow (if / elif / else)
-Student: [your name]
-Date: [date]
+Student: Angel Lhei D. Dayrit
+Date: 9/30/2026
 
 ============================================
 WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
-[write your own explanation here]
+Control flow is how your computer makes decisions. It's like a 
+flowchart for your code: "IF this is true, do step A. ELSE IF 
+something else is true, do step B. OTHERWISE, do step C." 
 
+It lets your program choose different paths instead of running 
+the exact same lines every time.
 
 ============================================
 KEY VOCABULARY
