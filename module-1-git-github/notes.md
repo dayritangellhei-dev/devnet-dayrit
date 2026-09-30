@@ -39,7 +39,7 @@ git push -u origin module1
 ## A mistake I made (or one I want to avoid)
 
 [What tripped you up? A confusing error message, committing to the wrong branch, a merge conflict — explain it so a classmate reading this avoids the same mistake.]
-
+I want to avoid forgetting to pull the code before starting because it is possible that my collaborators may make changes and I do not have the latest code so it may cause errors because the code history is different. 
 ---
 
 ## How this connects to something else
