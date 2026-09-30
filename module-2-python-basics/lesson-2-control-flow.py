@@ -51,7 +51,9 @@ A MISTAKE I MADE (or one I want to avoid)
 ============================================
 [what's something confusing or easy to get wrong
 about this topic?]
-
+Confusing = with ==
+because = is used to assign value
+and == is used to compare values
 
 ============================================
 HOW THIS CONNECTS TO SOMETHING ELSE
