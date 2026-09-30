@@ -33,8 +33,11 @@ came up with yourself — not copied from class.
 """
 
 # --- your code example goes here ---
+student_name = "Angel"
+student_year = 3
 
-
+print(f"Student name: {student_name}")
+print(f"Student year: {student_year}")
 """
 ============================================
 A MISTAKE I MADE (or one I want to avoid)
