@@ -14,12 +14,12 @@ with your collaborators.
 
 ## Key vocabulary (in your own words)
 
-- repository:
-- commit:
-- branch:
-- push / pull:
-- pull request:
-- merge conflict:
+- repository: A project folder that Git is tracking.
+- commit: Checkpoint of code that was tracked.
+- branch: Separate copy of repository where you can test ideas without breaking the main code.
+- push / pull: push uploads your commits to GitHub and Pull grabs the latest commit from GitHub to the computer.
+- pull request: A request to review changes on the branch before merging into main.
+- merge conflict: When two people edit the same line of code.
 
 ---
 
