@@ -33,7 +33,17 @@ came up with yourself — not copied from class.
 """
 
 # --- your code example goes here ---
+passenger_type = "student"
 
+if passenger_type == "student":
+    fare = 13
+    print(f"Student Fare: {fare}")
+elif passenger_type == "regular":
+    fare = 15
+    print(f"Regular Fare: {fare}")
+else:
+    fare = 10
+    print(f"Regular Fare: {fare}")
 
 """
 ============================================
