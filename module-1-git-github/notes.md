@@ -1,13 +1,14 @@
 # Module 1 — Git & GitHub
 
-**Student:** [your name]
-**Date:** [date]
+**Student:** Angel Lhei D. Dayrit
+**Date:** 9/30/2026
 
 ---
 
 ## What is Git? What is GitHub? (explain like you're teaching a friend who's never used either)
-
-[Write your own explanation here. What problem does Git actually solve? How is GitHub different from Git itself?]
+Git can be related to video game save files, so every move is tracked after saving. Then GitHub is like the Google Drive for Git, it stores
+your save files online so you have a backup and can easily share it
+with your collaborators.
 
 ---
 
