@@ -28,7 +28,10 @@ with your collaborators.
 [Describe, step by step, a real branch → commit → push → PR you did. Include the actual commands you used.]
 
 ```
-# paste your actual commands here
+git switch -c module1
+git add .
+git commit -m "What is Git&GitHub"
+git push -u origin module1
 ```
 
 ---
