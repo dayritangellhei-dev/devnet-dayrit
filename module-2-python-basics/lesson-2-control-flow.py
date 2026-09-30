@@ -17,10 +17,11 @@ the exact same lines every time.
 ============================================
 KEY VOCABULARY
 ============================================
-- condition:
-- if / elif / else:
-- comparison operator:
-- boolean expression:
+- condition: A question or rule that results in either True or False.
+- if / elif / else: statement for code to make decisions based on conditions
+using if, elif, else. It checks conditions from top to bottom, and otherwise runs else.
+- comparison operator: Symbols used to compare values.
+- boolean expression: True or false value as a result.
 (add more as needed)
 
 
