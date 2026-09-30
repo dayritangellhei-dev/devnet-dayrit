@@ -44,7 +44,7 @@ A MISTAKE I MADE (or one I want to avoid)
 ============================================
 [what's something confusing or easy to get wrong
 about this topic?]
-
+I want to avoid using wrong data types.
 
 ============================================
 HOW THIS CONNECTS TO SOMETHING ELSE
