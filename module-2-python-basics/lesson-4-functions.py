@@ -7,8 +7,12 @@ Date: 10/3/2026
 WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
+Functions are like custom shortcut buttons on a microwave or phone. 
 
-
+Instead of typing out 10 lines of steps every time you need to do a task, 
+you package those steps into a named block of code once. Whenever you 
+need that task done, you just "call" the function by its name, give it 
+any necessary inputs, and let it do the work.
 ============================================
 KEY VOCABULARY
 ============================================
