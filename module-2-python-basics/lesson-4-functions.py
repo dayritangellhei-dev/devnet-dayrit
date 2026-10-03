@@ -16,7 +16,11 @@ any necessary inputs, and let it do the work.
 ============================================
 KEY VOCABULARY
 ============================================
-
+- function: A named, reusable block of code that performs a specific task.
+- def: The Python keyword used to create a function.
+- parameter: A variable inside the function definition that expects input.
+- argument: The actual value you pass into the function when calling it.
+- return: The keyword that sends a result back out from the function to your main code.
 
 ============================================
 MY OWN EXAMPLE(S)
@@ -24,7 +28,12 @@ MY OWN EXAMPLE(S)
 Write at least one working example below that you
 came up with yourself — not copied from class.
 """
+def calculate_total(price, quantity):
+    return price * quantity
 
+final_total = calculate_total(15, 3)
+
+print("Total price: " + str(final_total))
 
 """
 ============================================
