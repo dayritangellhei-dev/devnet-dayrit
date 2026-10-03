@@ -16,11 +16,13 @@ Instead of typing the same code 10 times, a loop tells the computer,
 ============================================
 KEY VOCABULARY
 ============================================
-- list:
-- for loop:
-- while loop:
-- index:
-- iteration:
+- list: An ordered collection of items stored inside square brackets `[]`.
+- for loop: A loop used to repeat code a specific number of times or iterate 
+  over every item in a list.
+- while loop: A loop that keeps repeating as long as a specific condition 
+  remains True.
+- index: The position number of an item in a list (starting at 0).
+- iteration: One single repetition or pass through a loop.
 (add more as needed)
 
 
