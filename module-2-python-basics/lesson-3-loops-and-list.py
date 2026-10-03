@@ -32,6 +32,13 @@ MY OWN EXAMPLE(S)
 Write at least one working example below that you
 came up with yourself — not copied from class.
 """
+grocery_list = ["Rice", "Eggs", "Cooking Oil", "Coffee"]
+
+print("--- Items to Buy ---")
+for item in grocery_list:
+    print(f"- {item}")
+    
+print("\nTotal items:", len(grocery_list))
 
 # --- your code example goes here ---
 
