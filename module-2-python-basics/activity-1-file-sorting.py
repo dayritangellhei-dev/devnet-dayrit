@@ -61,7 +61,7 @@ A MISTAKE I MADE (or one I want to avoid)
 [what tripped you up while building this? e.g. a path that didn't
 exist, a file that got overwritten, something that didn't work the
 way you expected at first]
-
+Running os.mkdir() when the folder already exists.
 
 ============================================
 HOW THIS CONNECTS TO SOMETHING ELSE
