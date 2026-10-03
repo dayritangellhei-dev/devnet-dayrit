@@ -32,24 +32,25 @@ MY OWN EXAMPLE(S)
 Write at least one working example below that you
 came up with yourself — not copied from class.
 """
+
 grocery_list = ["Rice", "Eggs", "Cooking Oil", "Coffee"]
 
 print("--- Items to Buy ---")
 for item in grocery_list:
     print(f"- {item}")
-    
+
 print("\nTotal items:", len(grocery_list))
 
-# --- your code example goes here ---
+
 
 
 """
 ============================================
 A MISTAKE I MADE (or one I want to avoid)
 ============================================
-[what's something confusing or easy to get wrong
-about this topic?]
-
+something that is easy to mistake here is when trying to call out an index from a list,
+for example I want to call out coffee from my list, doing [4] would actually cause an error
+because index starts from zero.
 
 ============================================
 HOW THIS CONNECTS TO SOMETHING ELSE
