@@ -9,6 +9,10 @@ WHAT DID YOU BUILD? (explain in your own words)
 [Paste your working script below first, then come back and explain
 it here: what does your script do, and what rule did you use to
 sort the files? e.g. by extension, by name, by date, etc.]
+My script scans and prints all files in the current directory, 
+asks the user to enter a folder path, and checks if a specific file 
+named file.txt exists. Finally, it automatically creates four new category 
+folders which are image, documents, videos, and others.
 
 
 ============================================
