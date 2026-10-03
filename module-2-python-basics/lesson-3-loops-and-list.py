@@ -1,15 +1,18 @@
 """
 Module 2 — Lesson 3: Loops & Lists
-Student: [your name]
-Date: [date]
+Student: Angel Lhei D. Dayrit
+Date: 10/3/2026
 
 ============================================
 WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
-[write your own explanation here]
+A list is like a digital notebook page where you store multiple items 
+under one single variable name, it could be something like a grocery list.
 
-
+Then A loop is like setting an automated timer that performs an action repeatedly. 
+Instead of typing the same code 10 times, a loop tells the computer, 
+"Do this step for every item on my list until I run out."
 ============================================
 KEY VOCABULARY
 ============================================
