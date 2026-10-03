@@ -1,7 +1,7 @@
 """
 Module 2 — Activity: File Sorting with os and shutil
-Student: [your name]
-Date: [date]
+Student: Angel Lhei D. Dayrit
+Date: 10/3/2026
 
 ============================================
 WHAT DID YOU BUILD? (explain in your own words)
@@ -30,7 +30,21 @@ Paste the code you already wrote for this activity below.
 import os
 import shutil
 
-# --- paste your existing code here ---
+list_of_files = os.listdir()
+print(list_of_files)
+
+folder_path = input("Enter the folder path: ")
+
+if os.path.exists('file.txt'):
+    print("The file exists!")
+else:
+    print("The file does not exist.")
+
+os.mkdir("image") 
+os.mkdir("documents")
+os.mkdir("videos")
+os.mkdir("others") 
+
 
 
 """
