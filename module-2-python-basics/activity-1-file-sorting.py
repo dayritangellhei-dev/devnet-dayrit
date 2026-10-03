@@ -14,10 +14,13 @@ sort the files? e.g. by extension, by name, by date, etc.]
 ============================================
 KEY VOCABULARY
 ============================================
-- os module:
-- shutil module:
-- file path:
-- directory:
+- os module: A built-in Python module that lets your program interact 
+  with the operating system.
+- shutil module: A module used for high-level file operations like 
+  moving, copying, or deleting files and directories.
+- file path: The exact address or location of a file or folder in 
+  your computer's storage system.
+- directory: The technical name for a folder on a computer.
 (add more as needed)
 
 
