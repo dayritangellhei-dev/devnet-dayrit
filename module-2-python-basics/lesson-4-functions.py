@@ -39,7 +39,11 @@ print("Total price: " + str(final_total))
 ============================================
 A MISTAKE I MADE (or one I want to avoid)
 ============================================
+Confusing print() with return.
 
+- print() just shows text on the screen for you to see.
+- return actually gives the result back so your program can save 
+  and use it in other variables or calculations.
 
 ============================================
 HOW THIS CONNECTS TO SOMETHING ELSE
